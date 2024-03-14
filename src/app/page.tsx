@@ -1,3 +1,5 @@
+import register from "@/actions/register";
+
 export default function Home() {
   return (
     <main className="">
